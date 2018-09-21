@@ -1,6 +1,6 @@
 # Machine Learning Engineer Nanodegree
 # Model Evaluation and Validation
-## Project: Predicting Boston Housing Prices
+## Project: [Predicting Boston Housing Prices](http://nbviewer.jupyter.org/github/gukun770/Nanodegree-Boston-Housing-Price-Prediction/blob/master/boston_housing.ipynb)
 
 ### Install
 
